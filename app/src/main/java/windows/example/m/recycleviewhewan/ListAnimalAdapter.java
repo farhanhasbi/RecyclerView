@@ -66,7 +66,7 @@ public class ListAnimalAdapter extends RecyclerView.Adapter<ListAnimalAdapter.Li
             imgPhoto = itemView.findViewById(R.id.img_item_photo);
             tvName = itemView.findViewById(R.id.tv_item_name);
             tvFrom = itemView.findViewById(R.id.tv_item_from);
-            relativeLayout = itemView.findViewById(R.id.view_game);
+            relativeLayout = itemView.findViewById(R.id.view_animal);
         }
     }
 }
